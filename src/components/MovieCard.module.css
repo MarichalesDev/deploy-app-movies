@@ -1,0 +1,35 @@
+.movieCard {
+    list-style: none;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.movieImage {
+    border-radius: 10px;
+    background-color: azure;
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease-out;
+}
+
+.movieImage:hover,
+.movieImage:focus,
+.movieImage:active {
+    transform: translateY(-8px);
+}
+
+@media (max-width: 560px) {
+    .movieImage{
+        width: 90%;
+        height: auto;
+    }
+}
+/* Grow */
+
+
