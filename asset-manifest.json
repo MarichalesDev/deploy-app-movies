@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy-app-movies/static/css/main.5d033263.css",
+    "main.js": "/deploy-app-movies/static/js/main.6e7749b8.js",
+    "index.html": "/deploy-app-movies/index.html",
+    "main.5d033263.css.map": "/deploy-app-movies/static/css/main.5d033263.css.map",
+    "main.6e7749b8.js.map": "/deploy-app-movies/static/js/main.6e7749b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d033263.css",
+    "static/js/main.6e7749b8.js"
+  ]
+}
