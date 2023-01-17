@@ -1,5 +1,5 @@
 {
-  "homepage": "https://MarichalesDev.github.io/deploy-app-movies",
+  "homepage": "http://localhost:3000/",
   "name": "movies-react",
   "version": "0.1.0",
   "private": true,
